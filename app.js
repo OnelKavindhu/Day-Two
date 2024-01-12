@@ -1,1 +1,1 @@
-console.log("Hellow")
+console.table  ({name:"Onel", age:22})
